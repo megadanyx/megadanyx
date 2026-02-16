@@ -91,7 +91,6 @@ life_philosophy: "Build scalable systems that deliver reliable results."
 - 🗄️ **DB performance & query tuning**
 - 🔄 **Automation & reporting**
 - ⚡ **Scalable ETL pipelines**
-
 <br/>
 
 ### 💡 Quick Facts
