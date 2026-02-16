@@ -57,7 +57,7 @@
 
 <table>
 <tr>
-<td width="20%" valign="top">
+<td width="45%" valign="top">
 
 ### 🎯 What I Do
 
@@ -82,25 +82,25 @@ core_stack:
 life_philosophy: "Build scalable systems that deliver reliable results."
 ```
 </td>
-<td width="80%" valign="top">
+<td width="55%" valign="top">
 
 ### 🚀 Current Focus
 
-- 🔌 **Backend architecture & API integrations**
-- 💳 **Improving reliability of payment systems**
-- 🗄️ **Database performance tuning & query optimization**
-- 🔄 **Process automation & reporting systems**
-- ⚡ **Designing scalable ETL pipelines**
+- 🔌 **Backend architecture & APIs**
+- 💳 **Payment system reliability**
+- 🗄️ **DB performance & query tuning**
+- 🔄 **Automation & reporting**
+- ⚡ **Scalable ETL pipelines**
 
 <br/>
 
 ### 💡 Quick Facts
 
-- 📍 Based in Chișinău, Moldova
-- 🌍 Romanian (Native) | Russian (Fluent) | English (Professional)
-- 🏦 Background in technical banking processing
-- 🛠 Tools: VS Code, SSMS, DBeaver, Git
-- 📁 Projects: DVS-Expert, Data Pipeline, MyPos POS
+- 📍 Chișinău, Moldova
+- 🌍 RO (Native) | RU (Fluent) | EN (Professional)
+- 🏦 Banking & payment systems background
+- 🛠 VS Code | SSMS | DBeaver | Git
+- 📁 DVS-Expert | Data Pipeline | MyPos
 
 </td>
 </tr> </table>
