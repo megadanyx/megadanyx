@@ -57,7 +57,7 @@
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="20%" valign="top">
 
 ### 🎯 What I Do
 
@@ -82,7 +82,7 @@ core_stack:
 life_philosophy: "Build scalable systems that deliver reliable results."
 ```
 </td>
-<td width="65%" valign="top">
+<td width="80%" valign="top">
 
 ### 🚀 Current Focus
 
