@@ -54,65 +54,50 @@
 
 <br/><br/>
 
+
 <table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🎯 What I Do</h3>
-      <p><strong>Mihai Rotari</strong> — Results-driven Software & Data Engineer with solid experience in technical banking processing and payment systems. I design scalable backend applications, optimize databases, and build reliable data pipelines. I focus not only on implementation, but on understanding business logic and system architecture to deliver robust, high-quality solutions.</p>
+<tr>
+<td width="55%" valign="top">
 
-      <h4>💻 Software Development & Databases</h4>
-      <ul>
-        <li>Python, PHP, JavaScript, Bash, HTML/CSS</li>
-        <li>MS SQL Server, MySQL / MariaDB, SQLite</li>
-        <li>Clean architecture & performance optimization</li>
-      </ul>
+### 🎯 What I Do
 
-      <h4>⚡ Frameworks & Technologies</h4>
-      <ul>
-        <li>Django, Django REST Framework, Flask, FastAPI</li>
-        <li>CodeIgniter 4, React, Bootstrap</li>
-        <li>REST APIs & backend integrations</li>
-      </ul>
+```yaml
+name: Mihai Rotari
+located_in: Chișinău, Moldova 🇲🇩
+current_status: Software Engineer | Data Engineer
 
-      <h4>📊 Data Engineering & Analytics</h4>
-      <ul>
-        <li>ETL pipeline design & automation</li>
-        <li>Pandas, NumPy, SQL-based analytics</li>
-        <li>Power BI dashboards & reporting automation</li>
-      </ul>
+areas_of_expertise:
+  - 🐍 Python Backend Development
+  - 📊 Data Engineering & ETL
+  - 🗄️ Database Design & Optimization
+  - 🌐 Web Application Development
+  - 💳 Payment Systems Processing
 
-      <h4>📁 Featured Projects</h4>
-      <ul>
-        <li><strong>DVS-Expert Website</strong> — Corporate training platform (Django, HTML/CSS, JS)</li>
-        <li><strong>Scalable Data Pipeline</strong> — Daily event processing with automated reporting</li>
-        <li><strong>MyPos Point of Sale</strong> — Web-based POS system (PHP, CodeIgniter 4, MySQL)</li>
-      </ul>
-    </td>
+core_stack:
+  - Django / Flask / FastAPI
+  - MS SQL Server / MySQL / SQLite
+  - Pandas / NumPy / Power BI
+  - REST APIs & System Integrations
 
-    <td width="45%" valign="top">
-      <h3>🚀 Current Focus</h3>
-      <ul>
-        <li>Designing and optimizing ETL pipelines and data workflows</li>
-        <li>Improving reliability of payment and banking-related systems</li>
-        <li>Database performance tuning and query optimization</li>
-        <li>Process automation and operational monitoring</li>
-        <li>Backend system architecture & API integrations</li>
-        <li>Continuous learning in scalable systems & cloud-ready applications</li>
-      </ul>
+life_philosophy: "Build scalable systems that deliver reliable results."
+```
+</td> <td width="45%" valign="top">
+🚀 Current Focus
+🔌 Backend architecture & API integrations
+💳 Improving reliability of payment systems
+🗄️ Database performance tuning & query optimization
+🔄 Process automation & reporting systems
+⚡ Designing scalable ETL pipelines
 
-      <br/>
+<br/>
+💡 Quick Facts
+📍 Based in Chișinău, Moldova
+🌍 Romanian (Native) | Russian (Fluent) | English (Professional)
+🏦 Background in technical banking processing
+🛠 Tools: VS Code, SSMS, DBeaver, Git
+📁 Projects: DVS-Expert, Data Pipeline, MyPos POS
 
-      <h4>💡 Quick Facts</h4>
-      <ul>
-        <li>📍 Location: Chișinău, Moldova</li>
-        <li>🌍 Languages: Romanian (Native), Russian (Fluent), English (Professional Working)</li>
-        <li>🛠 Tools: VS Code, SSMS, DBeaver, Git</li>
-        <li>🏦 Background: Technical banking & payment processing systems</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
+</td> </tr> </table>
 
 
 <br/>
@@ -256,7 +241,7 @@
 <!-- 🗄️ DATABASES -->
 <h4>🗄️ Databases</h4>
 <p>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="./assets/microsoft-sql-server.svg" alt="MSSQL" title="MSSQL"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="./assets/microsoft-sql-server.svg" alt="MSSQL" title="MSSQL width="48" height="48" style="width:48px; height:48px;"> </a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite"/></a>
