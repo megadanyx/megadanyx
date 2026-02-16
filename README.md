@@ -81,23 +81,29 @@ core_stack:
 
 life_philosophy: "Build scalable systems that deliver reliable results."
 ```
-</td> <td width="45%" valign="top">
-🚀 Current Focus
-🔌 Backend architecture & API integrations
-💳 Improving reliability of payment systems
-🗄️ Database performance tuning & query optimization
-🔄 Process automation & reporting systems
-⚡ Designing scalable ETL pipelines
+</td>
+<td width="45%" valign="top">
+
+### 🚀 Current Focus
+
+- 🔌 **Backend architecture & API integrations**
+- 💳 **Improving reliability of payment systems**
+- 🗄️ **Database performance tuning & query optimization**
+- 🔄 **Process automation & reporting systems**
+- ⚡ **Designing scalable ETL pipelines**
 
 <br/>
-💡 Quick Facts
-📍 Based in Chișinău, Moldova
-🌍 Romanian (Native) | Russian (Fluent) | English (Professional)
-🏦 Background in technical banking processing
-🛠 Tools: VS Code, SSMS, DBeaver, Git
-📁 Projects: DVS-Expert, Data Pipeline, MyPos POS
 
-</td> </tr> </table>
+### 💡 Quick Facts
+
+- 📍 Based in Chișinău, Moldova
+- 🌍 Romanian (Native) | Russian (Fluent) | English (Professional)
+- 🏦 Background in technical banking processing
+- 🛠 Tools: VS Code, SSMS, DBeaver, Git
+- 📁 Projects: DVS-Expert, Data Pipeline, MyPos POS
+
+</td>
+</tr> </table>
 
 
 <br/>
